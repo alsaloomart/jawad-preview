@@ -1,0 +1,166 @@
+{
+  "logo": null,
+  "slots": [
+    {
+      "id": "hero-01",
+      "label": "بنر 1",
+      "width": 1920,
+      "height": 700,
+      "file": "hero-01.webp",
+      "target": "slider",
+      "source": "بنر رئيسي 1 - إطلاق المتجر.webp",
+      "status": "مؤقت — بانتظار التأكيد"
+    },
+    {
+      "id": "hero-02",
+      "label": "بنر 2",
+      "width": 1920,
+      "height": 700,
+      "file": "hero-02.webp",
+      "target": "slider",
+      "source": "بنر رئيسي 2 - أبرز المنتجات.webp",
+      "status": "مؤقت — بانتظار التأكيد"
+    },
+    {
+      "id": "hero-03",
+      "label": "بنر 3",
+      "width": 1920,
+      "height": 700,
+      "file": "hero-03.webp",
+      "target": "slider",
+      "source": "بنر رئيسي 3 - بكجات التوفير.webp",
+      "status": "مؤقت — بانتظار التأكيد"
+    },
+    {
+      "id": "hero-04",
+      "label": "بنر 4",
+      "width": 1920,
+      "height": 700,
+      "file": "hero-04.webp",
+      "target": "slider",
+      "source": "بنر رئيسي 4 - الشحن والدفع.webp",
+      "status": "مؤقت — بانتظار التأكيد"
+    },
+    {
+      "id": "tile-01",
+      "label": "بلاطة 1",
+      "width": 600,
+      "height": 600,
+      "file": "tile-01.webp",
+      "target": "tiles",
+      "source": "بلاطة قسم 1.webp",
+      "status": "مؤقت — بانتظار التأكيد"
+    },
+    {
+      "id": "tile-02",
+      "label": "بلاطة 2",
+      "width": 600,
+      "height": 600,
+      "file": "tile-02.webp",
+      "target": "tiles",
+      "source": "بلاطة قسم 2.webp",
+      "status": "مؤقت — بانتظار التأكيد"
+    },
+    {
+      "id": "tile-03",
+      "label": "بلاطة 3",
+      "width": 600,
+      "height": 600,
+      "file": "tile-03.webp",
+      "target": "tiles",
+      "source": "بلاطة قسم 3.webp",
+      "status": "مؤقت — بانتظار التأكيد"
+    },
+    {
+      "id": "tile-04",
+      "label": "بلاطة 4",
+      "width": 600,
+      "height": 600,
+      "file": "tile-04.webp",
+      "target": "tiles",
+      "source": "بلاطة قسم 4.webp",
+      "status": "مؤقت — بانتظار التأكيد"
+    },
+    {
+      "id": "tile-05",
+      "label": "بلاطة 5",
+      "width": 600,
+      "height": 600,
+      "file": "tile-05.webp",
+      "target": "tiles",
+      "source": "بلاطة قسم 5.webp",
+      "status": "مؤقت — بانتظار التأكيد"
+    },
+    {
+      "id": "tile-06",
+      "label": "بلاطة 6",
+      "width": 600,
+      "height": 600,
+      "file": "tile-06.webp",
+      "target": "tiles",
+      "source": "بلاطة قسم 6.webp",
+      "status": "مؤقت — بانتظار التأكيد"
+    },
+    {
+      "id": "divider-01",
+      "label": "فاصل 1",
+      "width": 1920,
+      "height": 400,
+      "file": "divider-01.webp",
+      "target": "dividers",
+      "source": "فاصل أقسام 1.webp",
+      "status": "مؤقت — بانتظار التأكيد"
+    },
+    {
+      "id": "divider-02",
+      "label": "فاصل 2",
+      "width": 1920,
+      "height": 400,
+      "file": "divider-02.webp",
+      "target": "dividers",
+      "source": "فاصل أقسام 2.webp",
+      "status": "مؤقت — بانتظار التأكيد"
+    },
+    {
+      "id": "divider-03",
+      "label": "فاصل 3",
+      "width": 1920,
+      "height": 400,
+      "file": "divider-03.webp",
+      "target": "dividers",
+      "source": "فاصل أقسام 3.webp",
+      "status": "مؤقت — بانتظار التأكيد"
+    },
+    {
+      "id": "package-01",
+      "label": "بنر بكج 1",
+      "width": 1920,
+      "height": 500,
+      "file": "package-01.webp",
+      "target": "package-slots",
+      "source": "بنر بكجات التوفير 1.webp",
+      "status": "مؤقت — بانتظار التأكيد"
+    },
+    {
+      "id": "package-02",
+      "label": "بنر بكج 2",
+      "width": 1920,
+      "height": 500,
+      "file": "package-02.webp",
+      "target": "package-slots",
+      "source": "بنر بكجات التوفير 2.webp",
+      "status": "مؤقت — بانتظار التأكيد"
+    },
+    {
+      "id": "strip-01",
+      "label": "شريط الدفع والشحن 1",
+      "width": 1200,
+      "height": 150,
+      "file": "strip-01.png",
+      "target": "strip",
+      "source": "شريط الدفع والشحن.png",
+      "status": "مؤقت — بانتظار التأكيد"
+    }
+  ],
+  "reviewNotice": "جميع الصور والأسماء والنصوص في التصاميم مؤقتة وبانتظار التأكيد؛ ليست معلومات منتجات أو خدمات معتمدة."
+}
